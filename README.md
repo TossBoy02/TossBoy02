@@ -13,11 +13,10 @@ The tools that I like using are Photoshop, Notes (any type xD), ClickUp, and Can
 I'm currently on my last year of uni (Bachelor's of Computer Science) I'll graduate in June 2026!
 
 ### My interests and hobbies:
-  
- - I love gaming, and streaming (sometimes xD)
- - I like drawing, and creating art
- - I like listening to music
- - I also love anime as well :3
+_ I love gaming, and streaming (sometimes xD)
+- I like drawing, and creating art
+- I like listening to music
+- I also love anime as well :3
 
 <!--
 **TossBoy02/TossBoy02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
