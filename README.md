@@ -1,6 +1,6 @@
 ## Ahoy Matey! 🦜
 
-I'm Abdelrahman AKA [Toss Boy](https://www.twitch.tv/toss_boyy_)! I'm a Software Developer and I specifically working in AI Engineering.
+I'm Abdelrahman AKA [Toss Boy](https://www.twitch.tv/toss_boyy_)! I'm a Software Developer and I specifically working in AI Engineering 🎯
 
 I'm based in Cairo, Egypt.
 
@@ -12,7 +12,7 @@ The tools that I like using are Photoshop, Notes (any type xD), ClickUp, and Can
 
 I'm currently on my last year of uni (Bachelor's of Computer Science) I'll graduate in June 2026!
 
-### My interests and hobbies:
+### My interests and hobbies 🍺:
  - I love gaming, and streaming (sometimes xD)
  - I like drawing, and creating art
  - I like listening to music
