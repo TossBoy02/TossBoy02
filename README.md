@@ -6,7 +6,7 @@ I'm based in Cairo, Egypt.
 
 I usually work on anything AI related and I also enjoy Graphic Designing and working on making logos and posters.
 
-My tech stack that I usually use consists of Python, Docker, Pandas, Transformers, NLP, Fast API, Weave, and Streamlit.
+My tech stack that I usually use consists of Python, Docker, Pandas, Transformers, NLP, Fast API, Weave, TensorFlow, PyTorch, vLLM, and Streamlit.
 
 The tools that I like using are Photoshop, Notes (any type xD), ClickUp, and Canva.
 
