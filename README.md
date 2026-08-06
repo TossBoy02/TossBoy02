@@ -10,7 +10,7 @@ My tech stack that I usually use consists of Python, Docker, Pandas, Transformer
 
 The tools that I like using are Photoshop, Notes (any type xD), ClickUp, and Canva.
 
-I'm currently on my last year of uni (Bachelor's of Computer Science) I'll graduate in June 2026!
+I have a Bachelor's Degree in Computer Science! I graduated in July 2026! 🎓
 
 ### My interests and hobbies 🍺:
  - I love gaming, and streaming (sometimes xD)
